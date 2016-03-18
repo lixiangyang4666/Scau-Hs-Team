@@ -1,12 +1,12 @@
 
+##Scau-Hs-Team
+##百度前端学院2016年春季班Scau-Hs-Team小组团队成员简介：http://lixiangyang4666.github.io/Scau-Hs-Team/
 
-##百度前端学院2016年春季班Scau-Hs-Team小组团队成员简介：
+01|任务一：零基础HTML编码：http://lixiangyang4666.github.io/Scau-Hs-Team/first task.html
 
-01|任务一：零基础HTML编码：
+02|任务二：零基础HTML及CSS编码（一）：http://lixiangyang4666.github.io/Scau-Hs-Team/second-task.html
 
-02|任务二：零基础HTML及CSS编码（一）：
-
-03|任务三：三栏式布局：
+03|任务三：三栏式布局：http://lixiangyang4666.github.io/Scau-Hs-Team/third-task.html
 
 04|任务四：定位和居中问题：
 
