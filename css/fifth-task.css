@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,p,ul,li,dl,dt,dd,table,form,h1,h2,h3,h4,h5,h6,p{margin:0;padding:0;}
+body{font-size:14px; font-family:"Times New Roman", Times, serif;background:#dedede; min-width:640px;}
+.cl{ clear:both;}
+.wrap{margin:0 auto;}
+
+.navBar{width:100%; height:55px; background:#000;}
+.navBar .wp{margin:0 20px;}
+.navBar h1{float:left; line-height:55px;}
+.navBar li{display:inline-block; float:right; padding:0 20px;}
+.navBar li a{ line-height:55px; text-decoration:none; color:#fff;}
+.navBar li .forthAchor{color:#999;}
+.navBar li a:hover{color:#f60;}
+
+
+/*.content{width:100%; overflow:hidden;background:#dedede; position:relative;}*/
+content{width:100%;}
+
+
+
+.leftContent{margin-right:390px; float:left;}
+
+
+.firstArticle{background:#fff; padding:20px; margin:20px; }
+.firstArticle h2{ font-size: 30px;line-height: 200%;}
+.firstArticle h3{line-height:300%;}
+.firstArticle address{font-style:normal; line-height:300%; color:#999;}
+.secondArticle{background:#fff; padding:20px; margin:0 20px 20px;}
+.secondArticle h2{ font-size: 30px;line-height: 200%;}
+.secondArticle h3{line-height:300%;}
+.secondArticle address{font-style:normal; line-height:300%; color:#999;}
+
+.pictureArea{background:#fff; padding:20px; margin:0 20px 20px;}
+.pictureArea dt{font-size:30px;}
+.pictureArea dd{border:1px solid #000; display:inline-block; padding:20px; margin:20px 20px 0 0;}
+.pictureArea dd p{text-align:center; margin-bottom:10px;}
+
+
+.endArticle{background:#fff; padding:20px; margin:0 20px 20px;}
+.endArticle h2{ font-size: 30px;line-height: 200%;}
+.endArticle h3{line-height:300%;}
+.endArticle address{font-style:normal; line-height:300%; color:#999;}
+.endArticle table{width:100%;}
+.endArticle table th{background:#000; color:#fff; text-align:left;}
+.endArticle table .endTr{ background:#999; font-size:16px; font-weight:700;}
+
+
+
+
+
+
+/*（这是运用定位）.rightContent{width:330px; background:#fff; padding:20px; position:absolute;top:20px; right:20px;}*/
+/*这是不用定位*/
+.rightContent{width:330px; background:#fff; padding:20px; margin-left:-390px; float:left; margin-top:20px;}
+.rightContent .tableRight{text-align:right; width:40%;}
+.rightContent table span{color:#cccccc;}
+.rightContent h4{line-height:40px; height:40px; border-left:4px solid #cccccc; padding-left:10px;}
+.rightContent tr{height:24px;}
+.rightContent textarea{font-size:16px; font-weight:600;}
+.rightContent table button{width:100%;height:40px; background-color:#3355d0; border:0;border-radius:10px; color:#fff; font-size:16px; font-weight:600;}
+
+
+.footer{width:100%; background:#000; height:55px; color:#fff; line-height:55px; text-align:center;}
+
+
+
+
+
+
+
+
+
