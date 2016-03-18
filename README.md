@@ -8,7 +8,7 @@
 
 03|任务三：三栏式布局：http://lixiangyang4666.github.io/Scau-Hs-Team/third-task.html
 
-04|任务四：定位和居中问题：
+04|任务四：定位和居中问题：http://lixiangyang4666.github.io/Scau-Hs-Team/forth-task.html
 
 05|任务五：零基础HTML及CSS编码（二）：
 
