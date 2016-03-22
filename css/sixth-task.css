@@ -1,9 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-body,div,p,ul,li,span{margin:0; padding:0;}
+body,div,p,ul,li,span,tr,td{margin:0; padding:0;}
 body{width:980px; height:1386px; font-size:12px; font-family:"微软雅黑"; margin:0 auto;}
 img{border:0;}
-.wp{margin:0 44px;}
+.wp{margin:0 44px;overflow: hidden;}
 .l{float:left;}
 .r{float:right;}
 
@@ -49,7 +49,6 @@ img{border:0;}
 .partOneMain3 li span{color:#cd4a48; font-style:oblique; line-height:16px; opacity:0.7; filter:alpha(opacity=70);}
 
 
-..partTwo{margin-bottom:42px; }
 .partTwoLeft{width:415px; background:#fff; margin-right:19px; }
 .partTwoTitle{height:153px;font-family:"黑体"; font-weight:bold; line-height:45px;border-bottom:2px solid #000;}
 .partTwoTitle .title4{font-size:42px; color:#11456b;}
@@ -70,31 +69,20 @@ img{border:0;}
 .partTwoRightPicture .span2{ color:#72b16a; font-style:oblique; letter-spacing:1.4em;}
 
 .partTwoRightMain{background:url(../img/sixth/partTwoRightMain.png) no-repeat; width:459px; height:318px;}
-.partTwoRightMain li{ list-style-image:}
+.partTwoRightMain li{list-style-image: url(../img/sixth/partTwoRightMainli.png);margin-left: 53px;font-size: 16px; padding-top: 20px;color: #5a5b5b; font-family: "宋体";text-align: left;}
+.partTwoRightMainB{margin-top: 43px;width:459px;position: relative;}
+.partTwoRightMainBP{background:#cc8091;width:260px;height: 160px;}
 
 
+.partTwoRightMainBP table .text1{font-size: 110px; color: #fff;     padding: 0 3px 0 12px; }
+.partTwoRightMainBP table .text2{padding-left:9px;border-left:2px solid #fff;font-size: 21px; font-family: "黑体";color: #fff; font-style: oblique; line-height: 32px;margin-top: 41px;display: inline-block;}
+.partTwoRightMainBP table .text3{padding-left:9px;border-left:2px solid #fff;color: #fff; font-family: "黑体";line-height: 15px;display: inline-block;margin-bottom: 32px;}
 
+.partTwoRightMainB p{width: 158px;position: absolute;bottom: 40px;right: 10px;font-size: 14px;color: #5a5b5b;font-family: "黑体";font-style: oblique;line-height: 17px;}
+.partTwoRightMainB p span{color: #d45d5c; font-family: "黑体";}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer{height: 60px; margin-top: 42px;border-top: 1px solid #938e8c;}
+.footer p{float: right;color: #d45d5c; font-family: "黑体";}
 
 
 
