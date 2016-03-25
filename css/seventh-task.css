@@ -27,7 +27,7 @@ body{ min-width:600px;font-size:14px; font-family:"微软雅黑"; display:flex;}
 
 .partOnePic{height:875px; position:relative;}
 .partOnePicM{background:url(../img/seventh/partOnePic.jpg) no-repeat; height:850px;}
-.partOnePicM .partOnePicMImg{opacity:0.2; transition:height 1.3s;height:850px; width:1280px;}
+.partOnePicM .partOnePicMImg{opacity:0.2; transition:height 1.3s;height:850px; width:100%;}
 .partOnePic:hover .partOnePicMImg{height:0;}
 .partOnePic:hover .partOneText{width:458px; height:262px;}
 .partOneText{position:absolute; top:227px; left:127px; color:#fff; width:0px; transition:width 1.5s; overflow:hidden; height:0px;transition:height 1.5s;}
