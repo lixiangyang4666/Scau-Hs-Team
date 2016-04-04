@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body,div{margin:0; padding:0;}
+
+.container{border:1px solid #000; display:flex; flex-flow:row wrap; justify-content:space-between; align-items:center; padding:20px;}
+
+.demo1{height:120px;width:150px; border:1px solid #F00;}
+.demo2{height:100px;width:150px; border:1px solid #F00;}
+.demo3{height:40px;width:150px; border:1px solid #F00;}
+.demo4{height:200px;width:150px; border:1px solid #F00;}
+
+@media screen and (max-width:640px) {
+	.demo4{order:-1;}
+	.container{align-items:flex-start;}
+	.demo1,.demo2,.demo4{margin-bottom:20px;}
+}
+
+
+
+
+
+
+
