@@ -122,6 +122,41 @@ body{font-size:0.75rem; font-family:"微软雅黑";}
 .calendar{ width:362.5px;height:357px;background:#fff; border-radius:8px;box-shadow:0 0 1.5px 0; overflow:hidden;}
 .carBrand{width:542.5px; height:357px;background:#fff; border-radius:8px;box-shadow:0 0 1.5px 0; overflow:hidden;}
 .calAndCar h4{ height:41px; background:#F4F5F6; line-height:41px; color:#AAAAA9; font-weight:normal; text-indent:20px;}
+.calendarCon{display:flex; justify-content:center;}
+.calendarConT{width:311px;}
+.calendarConT ul{ display:flex; justify-content:space-between;}
+.calendarConT ul:nth-child(2){border-bottom:1px solid #C2C2C1; border-top:1px solid #C2C2C1; display:flex; justify-content:space-around; color:#535353; line-height:30px; }
+.calendarConT ul:nth-child(1) select{background:url(../img/ninth-task/icon11.png) no-repeat right center; padding-right:4px;outline:none; height:23px; width:81px; background-origin:content-box; color:#535353; border:1px solid #C2C2C1;}
+.calendarConT ul:nth-child(1){line-height:42px;}
+.calendarConT ul li button{height:23px; width:60px; text-align:center; background:#fff; outline:none; border:1px solid #C2C2C1; font-size:0.75rem; color:#535353; font-family:"黑体"; cursor:pointer;}
+.calendarConT table tr{display:flex; justify-content:space-around; width:311px; margin:2px 0;}
+.calendarConT table tr td{text-align:center; width:43px; height:42px; color:#323232; font-size:0.71rem; display:flex; justify-content:center; flex-direction:column; box-sizing:border-box;}
+.calendarConT table tr:first-child td:nth-child(5) p:last-child{color:#C9151D;}
+.calendarConT table tr:first-child td:nth-child(6) p:first-child{color:#C9151D;}
+.calendarConT table tr:first-child td:nth-child(7) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(2) td:nth-child(2) p:last-child{color:#C9151D;}
+.calendarConT table tr:nth-child(2) td:nth-child(6) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(2) td:nth-child(7) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(3) td:nth-child(6) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(4) td:nth-child(6) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(5) td:nth-child(6) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(3) td:nth-child(7) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(4) td:nth-child(7) p:first-child{color:#C9151D;}
+.calendarConT table tr:nth-child(2) td:nth-child(6){border:1px solid #F7D564;}
+.calendarConT table tr:nth-child(3) td:nth-child(2){border:1px solid #F7D564;}
+.calendarConT table tr:nth-child(4) td:nth-child(2){border:1px solid #F7D564;}
+
+
+.carBrandConT{display:flex; justify-content:center; align-items:center; height:316px;}
+.carBrandConT table{border-collapse:collapse; width:451px; height:276px;}
+.carBrandConT tr td,.carBrandConT tr th{border:1px solid #ECECEF; box-sizing:border-box; text-align:center; height:25px;}
+.carBrandConT tr td:first-child{width:67px;}
+.carBrandConT tr td:nth-child(2){width:91px;}
+.carBrandConT tr td:nth-child(3) p{display:inline-block;}
+.carBrandConT tr td:nth-child(3) img{padding-left:18px;}
+.carBrandConT tr th:nth-child(3){text-align:left; padding-left:25px;}
+
+
 
 
 
