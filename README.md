@@ -20,7 +20,7 @@
 
 09|任务九：使用HTML/CSS实现一个复杂页面：http://lixiangyang4666.github.io/Scau-Hs-Team/ninth-task.html
 
-10|任务十：Flexbox 布局练习：
+10|任务十：Flexbox 布局练习：http://lixiangyang4666.github.io/Scau-Hs-Team/tenth-task.html
 
 11|任务十一：移动Web页面布局实践：
 
