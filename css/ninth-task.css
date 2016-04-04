@@ -118,7 +118,7 @@ body{font-size:0.75rem; font-family:"微软雅黑";}
 .secondItem4R button{width:51px; height:26px; background:#388AC1; color:#fff; font-family:"黑体"; border:none; outline:none; font-size:0.75rem; cursor:pointer;}
 
 
-.calAndCar{display:flex; flex-wrap:wrap; margin-top:15px; justify-content:space-between; margin-bottom:35px;}
+.calAndCar{display:flex; flex-wrap:wrap; margin-top:10px; justify-content:space-between; margin-bottom:35px;}
 .calendar{ width:362.5px;height:357px;background:#fff; border-radius:8px;box-shadow:0 0 1.5px 0; overflow:hidden;}
 .carBrand{width:542.5px; height:357px;background:#fff; border-radius:8px;box-shadow:0 0 1.5px 0; overflow:hidden;}
 .calAndCar h4{ height:41px; background:#F4F5F6; line-height:41px; color:#AAAAA9; font-weight:normal; text-indent:20px;}
